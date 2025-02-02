@@ -21,6 +21,11 @@ func Search(s string) []*Emoji {
 	return search(emojis, s)
 }
 
+// Slug filters the emojis by a slug
+func Slug(s string) []*Emoji {
+	return slug(emojis, s)
+}
+
 // Keyword filters the emojis by a keyword
 func Keyword(k string) []*Emoji {
 	return keyword(emojis, k)
