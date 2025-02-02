@@ -12,13 +12,13 @@ Follow this link to view the reference documentation: [GoDoc Reference][godoc] ð
 
 To install the **turtle** library run:
 
-``go get github.com/hackebrot/turtle``
+``go get github.com/devnoname120/turtle``
 
 ### CLI app
 
 If you would also like to use the **turtle** CLI app run:
 
-``go get github.com/hackebrot/turtle/cmd/turtle``
+``go get github.com/devnoname120/turtle/cmd/turtle``
 
 See the [turtle CLI][cli] README for more information.
 
@@ -36,7 +36,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/hackebrot/turtle"
+	"github.com/devnoname120/turtle"
 )
 
 func main() {
@@ -73,7 +73,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/hackebrot/turtle"
+	"github.com/devnoname120/turtle"
 )
 
 func main() {
@@ -104,7 +104,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/hackebrot/turtle"
+	"github.com/devnoname120/turtle"
 )
 
 func main() {
@@ -135,7 +135,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/hackebrot/turtle"
+	"github.com/devnoname120/turtle"
 )
 
 func main() {
@@ -182,6 +182,6 @@ open source software.
 [cli]: /cmd/turtle/README.md
 [emojilib]: https://github.com/muan/emojilib
 [github-api]: https://developer.github.com/v3/emojis/
-[godoc]: https://godoc.org/github.com/hackebrot/turtle (See GoDoc Reference)
+[godoc]: https://godoc.org/github.com/devnoname120/turtle (See GoDoc Reference)
 [mit]: /LICENSE
-[new-issue]: https://github.com/hackebrot/turtle/issues/new
+[new-issue]: https://github.com/devnoname120/turtle/issues/new

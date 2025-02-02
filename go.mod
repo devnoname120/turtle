@@ -1,4 +1,4 @@
-module github.com/hackebrot/turtle
+module github.com/devnoname120/turtle
 
 go 1.14
 

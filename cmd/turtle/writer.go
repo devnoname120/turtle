@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/hackebrot/turtle"
+	"github.com/devnoname120/turtle"
 )
 
 // JSONWriter writes Emojis as JSON
