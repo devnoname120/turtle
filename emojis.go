@@ -343,7 +343,7 @@ var emojis = []*Emoji{
 		Slug:     "grimacing_face",
 		Category: "Smileys & Emotion",
 		Char:     "😬",
-		Keywords: []string{"grimacing_face", "face", "grimace", "teeth", "#1 best", "awkward", "eek", "foot", "friend", "mouth", "mutual", "nervous", "snapchat"},
+		Keywords: []string{"grimacing_face", "face", "grimace", "teeth", "awkward", "eek", "nervous"},
 	},
 	{
 		Name:     "face exhaling",
@@ -420,7 +420,7 @@ var emojis = []*Emoji{
 		Slug:     "face_with_bags_under_eyes",
 		Category: "Smileys & Emotion",
 		Char:     "🫩",
-		Keywords: []string{},
+		Keywords: []string{"face with bags under eyes", "tired", "sleepy", "exhausted"},
 	},
 	{
 		Name:     "face with medical mask",
@@ -805,7 +805,7 @@ var emojis = []*Emoji{
 		Slug:     "ogre",
 		Category: "Smileys & Emotion",
 		Char:     "👹",
-		Keywords: []string{"ogre", "monster", "red", "mask", "halloween", "scary", "creepy", "devil", "demon", "japanese_ogre", "creature", "face", "fairy", "fantasy", "oni", "tale"},
+		Keywords: []string{"ogre", "monster", "red", "mask", "halloween", "scary", "creepy", "devil", "demon", "japanese_ogre", "creature", "face", "fairy", "fantasy", "oni", "tale", "shrek"},
 	},
 	{
 		Name:     "goblin",
@@ -2415,7 +2415,7 @@ var emojis = []*Emoji{
 		Slug:     "guard",
 		Category: "People & Body",
 		Char:     "💂",
-		Keywords: []string{"guard", "protect", "british", "foot", "guardsman"},
+		Keywords: []string{"guard", "protect", "british", "guardsman"},
 	},
 	{
 		Name:     "man guard",
@@ -2828,7 +2828,7 @@ var emojis = []*Emoji{
 		Slug:     "troll",
 		Category: "People & Body",
 		Char:     "🧌",
-		Keywords: []string{"troll", "mystical", "monster", "fairy", "fantasy", "tale"},
+		Keywords: []string{"troll", "mystical", "monster", "fairy", "fantasy", "tale", "shrek"},
 	},
 	{
 		Name:     "person getting massage",
@@ -3899,7 +3899,7 @@ var emojis = []*Emoji{
 		Slug:     "fingerprint",
 		Category: "People & Body",
 		Char:     "🫆",
-		Keywords: []string{},
+		Keywords: []string{"fingerprint"},
 	},
 	{
 		Name:     "monkey face",
@@ -4046,7 +4046,7 @@ var emojis = []*Emoji{
 		Slug:     "moose",
 		Category: "Animals & Nature",
 		Char:     "🫎",
-		Keywords: []string{"moose", "shrek", "canada", "sweden", "sven", "cool"},
+		Keywords: []string{"moose", "canada", "sweden", "sven", "cool"},
 	},
 	{
 		Name:     "donkey",
@@ -5012,7 +5012,7 @@ var emojis = []*Emoji{
 		Slug:     "leafless_tree",
 		Category: "Animals & Nature",
 		Char:     "🪾",
-		Keywords: []string{},
+		Keywords: []string{"leafless tree"},
 	},
 	{
 		Name:     "grapes",
@@ -5285,7 +5285,7 @@ var emojis = []*Emoji{
 		Slug:     "root_vegetable",
 		Category: "Food & Drink",
 		Char:     "🫜",
-		Keywords: []string{},
+		Keywords: []string{"root vegetable", "radish"},
 	},
 	{
 		Name:     "bread",
@@ -8589,7 +8589,7 @@ var emojis = []*Emoji{
 		Slug:     "harp",
 		Category: "Objects",
 		Char:     "🪉",
-		Keywords: []string{},
+		Keywords: []string{"harp", "music", "instrument"},
 	},
 	{
 		Name:     "mobile phone",
@@ -9562,7 +9562,7 @@ var emojis = []*Emoji{
 		Slug:     "shovel",
 		Category: "Objects",
 		Char:     "🪏",
-		Keywords: []string{},
+		Keywords: []string{"shovel", "tool", "dig"},
 	},
 	{
 		Name:     "alembic",
@@ -10864,7 +10864,7 @@ var emojis = []*Emoji{
 		Slug:     "splatter",
 		Category: "Symbols",
 		Char:     "🫟",
-		Keywords: []string{},
+		Keywords: []string{"splatter"},
 	},
 	{
 		Name:     "keycap #",
@@ -11886,7 +11886,7 @@ var emojis = []*Emoji{
 		Slug:     "flag_sark",
 		Category: "Flags",
 		Char:     "🇨🇶",
-		Keywords: []string{},
+		Keywords: []string{"flag_sark", "cq", "flag", "banner"},
 	},
 	{
 		Name:     "flag Costa Rica",
