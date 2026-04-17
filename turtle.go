@@ -3,7 +3,7 @@ package turtle
 //go:generate go run ./regenerate_emojis.go
 
 // Version of the turtle library
-const Version = "v0.3.0"
+const Version = "v0.3.1"
 
 // Emojis maps a name to an Emoji
 var Emojis = make(map[string]*Emoji)
