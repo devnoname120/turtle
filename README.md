@@ -164,6 +164,14 @@ At this point, the **turtle** project supports the emojis that are also
 available on GitHub. See the [GitHub REST API documentation][github-api] for
 more information.
 
+### Regenerate `emojis.go`
+
+To regenerate the emoji dataset file, run:
+
+```
+go generate ./...
+```
+
 ## Issues
 
 If you encounter any problems, please [file an issue][new-issue] along with a

@@ -1,5 +1,7 @@
 package turtle
 
+//go:generate go run ./regenerate_emojis.go
+
 // Version of the turtle library
 const Version = "v0.3.0"
 
