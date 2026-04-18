@@ -614,6 +614,13 @@ var emojis = []*Emoji{
 		Keywords: []string{"flushed_face", "face", "blush", "shy", "flattered", "blushing", "dazed", "embarrassed", "eyes", "open", "shame", "wide"},
 	},
 	{
+		Name:     "distorted face",
+		Slug:     "distorted_face",
+		Category: "Smileys & Emotion",
+		Char:     "🫪",
+		Keywords: []string{"distorted face", "surprised", "fluttered", "wide-eyed"},
+	},
+	{
 		Name:     "pleading face",
 		Slug:     "pleading_face",
 		Category: "Smileys & Emotion",
@@ -1123,6 +1130,13 @@ var emojis = []*Emoji{
 		Category: "Smileys & Emotion",
 		Char:     "💢",
 		Keywords: []string{"anger_symbol", "angry", "mad", "comic", "pop", "sign", "vein"},
+	},
+	{
+		Name:     "fight cloud",
+		Slug:     "fight_cloud",
+		Category: "Smileys & Emotion",
+		Char:     "🫯",
+		Keywords: []string{"fight cloud", "brawl", "conflict"},
 	},
 	{
 		Name:     "collision",
@@ -2833,6 +2847,13 @@ var emojis = []*Emoji{
 		Keywords: []string{"troll", "mystical", "monster", "fairy", "fantasy", "tale", "shrek"},
 	},
 	{
+		Name:     "hairy creature",
+		Slug:     "hairy_creature",
+		Category: "People & Body",
+		Char:     "🫈",
+		Keywords: []string{"hairy creature", "sasquatch", "bigfoot", "treeman"},
+	},
+	{
 		Name:     "person getting massage",
 		Slug:     "person_getting_massage",
 		Category: "People & Body",
@@ -3146,6 +3167,13 @@ var emojis = []*Emoji{
 		Category: "People & Body",
 		Char:     "🏃‍♂️‍➡️",
 		Keywords: []string{"man running facing right", "jog", "exercise"},
+	},
+	{
+		Name:     "ballet dancer",
+		Slug:     "ballet_dancer",
+		Category: "People & Body",
+		Char:     "🧑‍🩰",
+		Keywords: []string{"ballet dancer"},
 	},
 	{
 		Name:     "woman dancing",
@@ -4604,6 +4632,13 @@ var emojis = []*Emoji{
 		Keywords: []string{"dolphin", "animal", "nature", "fish", "sea", "ocean", "flipper", "fins", "beach"},
 	},
 	{
+		Name:     "orca",
+		Slug:     "orca",
+		Category: "Animals & Nature",
+		Char:     "🫍",
+		Keywords: []string{"orca", "ocean", "whale", "dolphin", "animal"},
+	},
+	{
 		Name:     "seal",
 		Slug:     "seal",
 		Category: "Animals & Nature",
@@ -5995,6 +6030,13 @@ var emojis = []*Emoji{
 		Category: "Travel & Places",
 		Char:     "⛰️",
 		Keywords: []string{"mountain", "photo", "nature", "environment"},
+	},
+	{
+		Name:     "landslide",
+		Slug:     "landslide",
+		Category: "Travel & Places",
+		Char:     "🛘",
+		Keywords: []string{"landslide", "disaster", "accident"},
 	},
 	{
 		Name:     "volcano",
@@ -8517,6 +8559,20 @@ var emojis = []*Emoji{
 		Keywords: []string{"saxophone", "music", "instrument", "jazz", "blues", "activity", "entertainment", "sax"},
 	},
 	{
+		Name:     "trumpet",
+		Slug:     "trumpet",
+		Category: "Objects",
+		Char:     "🎺",
+		Keywords: []string{"trumpet", "music", "brass", "activity", "entertainment", "horn", "instrument", "jazz"},
+	},
+	{
+		Name:     "trombone",
+		Slug:     "trombone",
+		Category: "Objects",
+		Char:     "🪊",
+		Keywords: []string{"trombone", "music", "instrument"},
+	},
+	{
 		Name:     "accordion",
 		Slug:     "accordion",
 		Category: "Objects",
@@ -8536,13 +8592,6 @@ var emojis = []*Emoji{
 		Category: "Objects",
 		Char:     "🎹",
 		Keywords: []string{"musical_keyboard", "piano", "instrument", "compose", "activity", "entertainment", "music"},
-	},
-	{
-		Name:     "trumpet",
-		Slug:     "trumpet",
-		Category: "Objects",
-		Char:     "🎺",
-		Keywords: []string{"trumpet", "music", "brass", "activity", "entertainment", "horn", "instrument", "jazz"},
 	},
 	{
 		Name:     "violin",
@@ -8965,6 +9014,13 @@ var emojis = []*Emoji{
 		Keywords: []string{"label", "sale", "tag"},
 	},
 	{
+		Name:     "coin",
+		Slug:     "coin",
+		Category: "Objects",
+		Char:     "🪙",
+		Keywords: []string{"coin", "money", "currency", "gold", "metal", "silver", "treasure"},
+	},
+	{
 		Name:     "money bag",
 		Slug:     "money_bag",
 		Category: "Objects",
@@ -8972,11 +9028,11 @@ var emojis = []*Emoji{
 		Keywords: []string{"money_bag", "dollar", "payment", "coins", "sale", "cream", "moneybag", "moneybags", "rich"},
 	},
 	{
-		Name:     "coin",
-		Slug:     "coin",
+		Name:     "treasure chest",
+		Slug:     "treasure_chest",
 		Category: "Objects",
-		Char:     "🪙",
-		Keywords: []string{"coin", "money", "currency", "gold", "metal", "silver", "treasure"},
+		Char:     "🪎",
+		Keywords: []string{"treasure chest", "gold", "haul", "mimic", "crate", "jewelry", "riches"},
 	},
 	{
 		Name:     "yen banknote",
